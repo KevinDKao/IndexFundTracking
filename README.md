@@ -32,10 +32,10 @@ Ever wondered if there's a "best time" to buy index funds? While past performanc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/index-fund-tracker.git
+git clone ...
 
 # Navigate to project directory
-cd index-fund-tracker
+cd IndexFundTracking
 
 # Install dependencies
 npm install
